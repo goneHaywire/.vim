@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/gone_haywire/projects/react-todos/src'
+let g:netrw_dirhist_2='/home/gone_haywire/projects/react-todos/src/components'
+let g:netrw_dirhist_1='/home/gone_haywire/projects/react-todos/src'
+let g:netrw_dirhist_0='/home/gone_haywire/projects/react-todos/src/contexts'
+let g:netrw_dirhist_9='/home/gone_haywire/projects/react-todos/src'
+let g:netrw_dirhist_8='/home/gone_haywire/projects/react-todos/src/services'
+let g:netrw_dirhist_7='/home/gone_haywire/projects/react-todos/src'
+let g:netrw_dirhist_6='/home/gone_haywire/projects/react-todos/src/use'
+let g:netrw_dirhist_5='/home/gone_haywire/projects/react-todos/src'
+let g:netrw_dirhist_4='/home/gone_haywire/projects/react-todos/src/use'
